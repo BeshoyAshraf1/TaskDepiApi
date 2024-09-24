@@ -1,0 +1,6 @@
+@TaskDEPIAPI_HostAddress = http://localhost:5177
+
+GET {{TaskDEPIAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
